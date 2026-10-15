@@ -28,7 +28,7 @@
 5. **Release decision** — approve, revise or hold: the best choice depends on the evidence and on the participant’s own rewrite.
 6. **Quality report** — copy or download it.
 
-## What the evidence shows (answer key for you)
+## What the evidence shows (answer key for you — also available inside the dashboard as **ANSWER KEY (trainer only)**, in English and Arabic)
 - **47%** — *Unsupported*: the comparison base is not stated; West is missing; it reproduces only as +47.0% year-on-year for the three reported regions (+12.8% vs last month); “exactly” is false precision.
 - **“thanks to our new marketing strategy”** — *Unsupported*: a seasonal promotion (1 Sep) and a 10% discount (8 Sep) pre-date the campaign (18 Sep); sales were already rising; no control group.
 - **“the best month in company history”** — *Contradicted*: December 2024 = 7.30; September cannot exceed 4.85 + 1.40 = 6.25 even if West hit its record. Missing pre-2022 records cannot rescue it.
